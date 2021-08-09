@@ -1,4 +1,4 @@
-#Hi there 👋
+# Hi there 👋
 
 ## 🔭 I’m currently working on:
   - "FakeBook": A recreation of Facebook in React.JS (A collaboration between me and @48panda)
