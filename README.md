@@ -1,7 +1,5 @@
-# Hi there 👋
+[![Hello, World!](https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lyallstewart&langs_count=5&theme=tokyonight)]()
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lyallstewart&count_private=true&theme=tokyonight&showicons=true)]()
 
 ## 🔭 I’m currently working on:
   - "FakeBook": A recreation of Facebook in React.JS (A collaboration between me and @48panda)
@@ -33,7 +31,10 @@
   - https://www.hackerrank.com/lyallstewart18
   - https://edabit.com/user/DYJfgiwty2LvGBSW9
  
+---
  
- ## 100 Days of Code Progress
- ### Day 1/100
- #### (Complete an hour of coding a day for 100 days)
+ [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lyallstewart&count_private=true&theme=tokyonight&showicons=true)]()
+ 
+---
+
+https://github.com/BananacraftDevelopment Is an organisation for me and some friends to colloborate on group projects so a couple things are on there.
