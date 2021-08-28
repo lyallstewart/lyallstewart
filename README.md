@@ -3,7 +3,7 @@
 
 ## 🔭 I’m currently working on:
   - "FakeBook": A recreation of Facebook in React.JS (A collaboration between me and @48panda)
-  - "LyallOS": My own OS with custom kernel, bootloader etc in C/C++ and assembly x64
+  - "BananaOS": My own OS with custom kernel, bootloader etc in C/C++ and assembly x64
 
 ## 💬 Things I have used in the past:
   - Python
@@ -28,8 +28,6 @@
 
 ## 📫 Links:
   - https://www.codecademy.com/profiles/LyallStewart
-  - https://www.hackerrank.com/lyallstewart18
-  - https://edabit.com/user/DYJfgiwty2LvGBSW9
  
 ---
  
