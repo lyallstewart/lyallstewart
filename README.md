@@ -3,8 +3,6 @@
 
 ## 💬 Things I have used in the past:
   - Python
-  - C
-  - C++
   - APIs (Discord, Spotify etc)
   - React.JS
   - MySQL
